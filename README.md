@@ -69,4 +69,9 @@
    - `output_path` — путь для сохранения PNG.  
    - `mermaid_cli_path` — путь к `mermaid-cli`.
 
+## Граф в файле формата png.
+![image](https://github.com/user-attachments/assets/7d80bbcc-a00b-478d-a1f4-9bca72134853)
+
+## Результат прогона тестов.
+![image](https://github.com/user-attachments/assets/339254cf-381d-4ad9-88c3-126c2002883d)
 
